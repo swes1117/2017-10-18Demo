@@ -1,0 +1,41 @@
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\obj\Debug\1018BotDemo.csprojResolveAssemblyReference.cache
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\obj\Debug\1018BotDemo.csproj.CoreCompileInputs.cache
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Bot Application.dll.config
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Bot Application.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Bot Application.pdb
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Autofac.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Chronic.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Builder.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Connector.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Newtonsoft.Json.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Net.Http.Formatting.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Web.Http.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Web.Http.WebHost.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Autofac.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Builder.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.Bot.Connector.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\Newtonsoft.Json.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Net.Http.Formatting.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Web.Http.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\System.Web.Http.WebHost.xml
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\obj\Debug\Bot Application.dll
+c:\users\owner\Source\Repos\1018BotDemo\1018BotDemo\obj\Debug\Bot Application.pdb
